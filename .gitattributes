@@ -1,0 +1,3 @@
+*.3mf		binary
+*.gcode		text working-tree-encoding=UTF-8 eol=crlf
+*.skp		binary
